@@ -474,7 +474,9 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 19.8125,
+              "dynamicTriggerPathList": [],
               "leftColumn": 5,
+              "dynamicBindingPathList": [],
               "children": [
                 {
                   "widgetName": "Canvas1",
@@ -951,7 +953,7 @@
               ],
               "borderWidth": "0",
               "key": "lk1ahad99o",
-              "backgroundColor": "#FFFFFF",
+              "backgroundColor": "#2E3D49",
               "rightColumn": 29,
               "widgetId": "9hh73ymldl",
               "containerStyle": "card",
